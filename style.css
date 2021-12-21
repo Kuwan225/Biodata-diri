@@ -1,0 +1,8 @@
+.container .data {
+  display: flex;
+}
+
+.container .data .titikdua {
+  background-color: aqua;
+  margin-top: -10px;
+}
